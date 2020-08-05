@@ -1,0 +1,8 @@
+@import 'montserrat.css';
+
+body{
+        font-family: 'Montserrat',sans-serif;
+        width: 1000px;
+        margin: 0 auto;
+        margin-top: 2rem;
+}
