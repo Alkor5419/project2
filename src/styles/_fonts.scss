@@ -1,0 +1,22 @@
+$MontserratBold : 'Conv_Montserrat-Bold', sans-serif;
+$MontserratReg : 'Conv_Montserrat-Regular', sans-serif;
+$QuicksandBold : 'Conv_Quicksand-Bold', sans-serif;
+$QuicksandReg : 'Conv_Quicksand-Regular', sans-serif;
+
+@font-face {
+	font-family: 'Conv_Montserrat-Bold';
+	src: url('../assets/fonts/Montserrat-Bold/Montserrat-Bold.woff') format('woff'), url('../assets/fonts/Montserrat-Bold/Montserrat-Bold.ttf') format('truetype'), url('../assets/fonts/Montserrat-Bold/Montserrat-Bold.svg') format('svg');
+	}
+@font-face {
+	font-family: 'Conv_Montserrat-Regular';
+	src: url('../assets/fonts/Montserrat-Regular/Montserrat-Regular.woff') format('woff'), url('../assets/fonts/Montserrat-Regular/Montserrat-Regular.ttf') format('truetype'), url('../assets/fonts/Montserrat-Regular/Montserrat-Regular.svg') format('svg');
+}
+@font-face {
+	font-family: 'Conv_Quicksand-Bold';
+	src: url('../assets/fonts/Quicksand-Bold/Quicksand-Bold.woff') format('woff'), url('../assets/fonts/Quicksand-Bold/Quicksand-Bold.ttf') format('truetype'), url('../assets/fonts/Quicksand-Bold/Quicksand-Bold.svg') format('svg');
+
+}
+@font-face {
+	font-family: 'Conv_Quicksand-Regular';
+	src: url('../assets/fonts/Quicksand-Regular/Quicksand-Regular.woff') format('woff'), url('../assets/fonts/Quicksand-Regular/Quicksand-Regular.ttf') format('truetype'), url('../assets/fonts/Quicksand-Regular/Quicksand-Regular.svg') format('svg');
+}
